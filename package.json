@@ -1,0 +1,26 @@
+{
+  "name": "node-tools",
+  "version": "1.0.0",
+  "description": "123",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yissyoo/node-tools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yissyoo/node-tools/issues"
+  },
+  "homepage": "https://github.com/yissyoo/node-tools#readme",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "ws": "^6.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.0"
+  }
+}
